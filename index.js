@@ -16,7 +16,7 @@ if (randomNumber1 > randomNumber2)
 }
 else if (randomNumber1 < randomNumber2)
 {
-    document.getElementsByTagName("h2")[0].innerHTML = "Dealer";
+    document.getElementsByTagName("h2")[0].innerHTML = "Dealer Gewinnt";
 }
 else
 {
